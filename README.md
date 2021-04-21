@@ -1,6 +1,6 @@
 # HPMS
-hospital patient management system
-Project By:
-Ishan Chaudhary
-Dev Aswal
-Anuranan Rai Deka
+hospital patient management system <br />
+Project By: <br />
+Ishan Chaudhary <br />
+Dev Aswal <br />
+Anuranan Rai Deka <br />
