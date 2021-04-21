@@ -1,0 +1,300 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #33334C;
+  color: white;
+}
+
+a:link {
+  text-decoration: none;
+}
+a {
+  background-color: transparent;
+}
+
+button {
+  border: none;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #4CAF50;
+  transition: 0.25s;
+}
+
+.container {
+  max-width: 30%;
+  position: relative;
+  top: 80px;
+  margin: auto;
+}
+
+.container h1 {
+  text-align: center;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  font-size: 60;
+}
+
+.container p {
+  position: relative;
+  top: 20px;
+  text-align: center;
+  color: red;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20;
+}
+
+.up {
+  position: relative;
+  top: 70px;
+  text-align: center;
+}
+
+input, textarea {
+  background-color: white;
+  color: black;
+  border: 2px solid #27273A;
+  border-radius: 6px;
+  outline: none;
+  width: 80%;
+  font-size: 12px;
+  margin: 11px auto;
+  padding: 7px;
+}
+input:focus, textarea:focus {
+  border: 2px solid #4CAF50;
+}
+form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.btn {
+  text-align: center;
+  color: white;
+  height: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: auto;
+  border-radius: 15px;
+  background-color: #27273A;
+  cursor:pointer;
+}
+
+.bg {
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+}
+
+table {
+  text-align: center;
+  color: white;
+  border-collapse: collapse;
+  position: absolute;
+  top: 80px;
+  margin-left: 20%;
+  font-size: large;
+  border: 1px black;
+}
+
+td {
+  width: 300px;
+  background-color: #E4F5D4;
+  border-top: 1px solid black;
+  font-weight: lighter;
+  color: black;
+  padding: 10px;
+}
+
+td a {
+  color: black;
+}
+
+th {
+  background-color: #555;
+  font-weight: bold;
+  border: 0;
+  padding: 10px;
+  text-align: center;
+}
+
+.links {
+  text-align: center;
+  margin: 16px 10px;
+  height: 40px;
+  width: 80%;
+  border-radius: 15px;
+  background-color: powderblue;
+  font-size: 150%;
+}
+
+.update-btn{
+  text-align: center;
+  color: white;
+  height: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 100px;
+  border-radius: 15px;
+  background-color: #27273A;
+}
+
+/*  top navigationbar */
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+ overflow: hidden;
+ background-color: transparent;
+}
+
+/* Links inside the navbar */
+.navbar a {
+ float: left;
+ font-size: 16px;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+ float: left;
+ overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+ font-size: 16px;
+ border: none;
+ outline: none;
+ color: white;
+ padding: 14px 16px;
+ background-color: inherit;
+ font-family: inherit; /* Important for vertical align on mobile phones */
+ margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+ background-color: #4CAF50;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+ display: none;
+ position: absolute;
+ background-color: #f9f9f9;
+ min-width: 160px;
+ box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+ z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+ float: none;
+ color: black;
+ padding: 12px 16px;
+ text-decoration: none;
+ display: block;
+ text-align: left;
+ background-color: white;
+}
+
+/* Add a background color to dropdown links on hover */
+.dropdown-content a:hover {
+ background-color: #4CAF50;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+ display: block;
+}
+
+/* navigation pane at the left side of the screen*/
+.dboard {
+  padding-top: 10px;
+  width: 200px;
+  background-color: #27273A;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+/* links inside navigation bar */
+.dboard a {
+  text-align: center;
+  width: 100%;
+  font-size: large;
+  display: block;
+  padding: 16px;
+  text-decoration: none;
+  background-color: #27273A;
+}
+
+.dboard a.active {
+  background-color: #555;
+  color: white;
+}
+
+.dboard a:hover:not(.active) {
+  background-color: #4CAF50;
+  color: white;
+}
+
+h1 {
+  position: relative;
+  text-align: auto;
+  color: white;
+}
+.up-form{
+  position: absolute;
+  display: block;
+  text-align: center;
+  margin: 20px;
+  background-color: transparent;
+  width: 90%;
+  height: auto;
+}
+.update-form{
+  margin-left: 10%;
+  display: inline-block;
+  text-align: center;
+  font-size: 26;
+  line-height: 2;
+  width: 50%;
+  height: auto;
+  background-color: transparent;
+}
+.form-group{
+  margin: 30px auto 0 auto;
+  width: 60%;
+}
+.form-title{
+  font-size: 50;
+}
+.form-group textarea{
+  vertical-align: top;
+}
+.address{
+  box-sizing: border-box;
+  resize:vertical;
+}
+.passpagebox{
+  margin-bottom: 30px;
+}
+
+.change_details{
+  position: absolute;
+  top: 200px;
+  width: 100%;
+  text-align: center;
+}
+.hello{
+padding-top: 10px;
+padding-right: 10px;
+font-size: 20px;
+}
