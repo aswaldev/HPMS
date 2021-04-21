@@ -1,0 +1,48 @@
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\Hospital Management.exe.config
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Dash.resources
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.AboutForm.resources
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.AddInvForm.resources
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.AddPatForm.resources
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.AddPatDetail.resources
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.Appointment.resources
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.bills.resources
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.GalleryForm.resources
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.Home.resources
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.Prescription.resources
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.Tests.resources
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.ViewInvForm.resources
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.ViewPatForm.resources
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\Hospital Management.exe.config
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\Hospital Management.exe.manifest
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\Hospital Management.application
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\Hospital Management.exe
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\Hospital Management.pdb
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\MySql.Web.dll
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\Google.Protobuf.dll
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\Zstandard.Net.dll
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\Renci.SshNet.dll
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\bin\Debug\MySql.Web.xml
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\Hospital Management.TrustInfo.xml
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\Hospital Management.exe.manifest
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\Hospital Management.application
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\Hospital Management.exe
+C:\Users\Flux\source\repos\HospitalManagement\WindowsFormsApp2\obj\Debug\Hospital Management.pdb
